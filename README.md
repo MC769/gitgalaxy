@@ -35,7 +35,7 @@ pip install gitgalaxy
 Or run from source:
 
 ```bash
-git clone https://github.com/yourname/gitgalaxy.git
+git clone https://github.com/MC769/gitgalaxy.git
 cd gitgalaxy
 pip install -e .
 ```
@@ -111,7 +111,7 @@ Commit graphs and contribution heatmaps are everywhere. This is the same informa
 ## Development
 
 ```bash
-git clone https://github.com/yourname/gitgalaxy.git
+git clone https://github.com/MC769/gitgalaxy.git
 cd gitgalaxy
 pip install -e .
 gitgalaxy .   # visualize gitgalaxy's own history
