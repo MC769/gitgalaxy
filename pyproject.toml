@@ -23,8 +23,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/gitgalaxy"
-Repository = "https://github.com/yourname/gitgalaxy"
+Homepage = "https://github.com/MC769/gitgalaxy"
+Repository = "https://github.com/MC769/gitgalaxy"
 
 [project.scripts]
 gitgalaxy = "gitgalaxy.cli:main"
